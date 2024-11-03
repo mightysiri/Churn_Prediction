@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mightysiri
-- 👀 I’m interested in becoming a Data Scientist
+- 👀 I’m a Data Scientist Enthusiast
 
 <!---
 mightysiri/mightysiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
